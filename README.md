@@ -4,6 +4,9 @@
 
 This project aims to develop an efficient solution for skin lesion detection using machine learning and deep learning methodologies. The project utilizes Python, OpenCV, and scikit-learn to build and optimize models that can accurately detect skin lesions from images.
 
+## Kaggle Datasets
+https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
+
 ## Features
 
 - **Image Processing:** Utilizing OpenCV for image preprocessing and augmentation.
