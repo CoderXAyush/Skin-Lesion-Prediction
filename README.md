@@ -4,12 +4,6 @@
 
 This project aims to develop an efficient solution for skin lesion detection using machine learning and deep learning methodologies. The project utilizes Python, OpenCV, and scikit-learn to build and optimize models that can accurately detect skin lesions from images.
 
-## Team Members
-
-- Paras Wane
-- Sankalp Kamble
-- Yash Nawale
-
 ## Features
 
 - **Image Processing:** Utilizing OpenCV for image preprocessing and augmentation.
@@ -85,23 +79,3 @@ This project aims to develop an efficient solution for skin lesion detection usi
 - **data/:** Directory to store the dataset (not included in the repository).
 - **models/:** Directory to save trained models.
 - **requirements.txt:** List of dependencies required to run the project.
-
-## Screenshots
-
-*Add relevant screenshots of the project, such as model performance graphs, confusion matrix, sample input images, and output results.*
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards and includes appropriate tests.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Contact
-
-For any questions or suggestions, please open an issue or contact the repository owner.
-
----
-
-Replace the placeholders with your actual details and add relevant screenshots in the "Screenshots" section to make the README more engaging and informative.
